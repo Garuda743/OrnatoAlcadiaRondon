@@ -1,0 +1,6 @@
+{
+  "name": "Coordinación de Ornato - Municipio Juan José Rondón",
+  "description": "Sistema oficial de planificación, control de asistencia, vacaciones, tareas periódicas y reporte de metas para la Coordinación de Ornato de la Alcaldía del Municipio Juan José Rondón, Estado Guárico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
